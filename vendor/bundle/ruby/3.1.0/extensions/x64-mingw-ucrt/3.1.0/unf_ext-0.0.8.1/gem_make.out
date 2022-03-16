@@ -1,0 +1,17 @@
+current directory: E:/GitHub/mrfields.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20220316-22716-xfxhsi.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: E:/GitHub/mrfields.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: E:/GitHub/mrfields.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\=
+generating unf_ext-x64-mingw-ucrt.def
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: E:/GitHub/mrfields.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220316-22716-aknjl2
