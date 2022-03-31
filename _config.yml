@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Michael Fields
-email:
+email: mikefields4214@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Michael Fields I am an Information Technology Student/Professional with a current focus in Networking, Cyber Security with interests in Cloud Technologies.
 twitter_username: mikerfields
@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A website comprised of my resume, portfolio and resources for my current and future certification tracks"
   links:
-    - label: "Website"
+    - label: "Website About Me"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://mikerfields.github.io/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://https://twitter.com/mikerfields"
