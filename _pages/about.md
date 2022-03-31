@@ -16,6 +16,7 @@ My passion is technology....
 - **Cumulative GPA:** 4.0
 - Presidential Honors Society
 - Tau Sigma National Honor Society
+- Order of the Sword & Shield National Honor Society
 - Cyber Defense Organization Server Committee
 
 **SUNY Ulster County Community College** | Associate in Applied Science     August 2018 - May 2020
