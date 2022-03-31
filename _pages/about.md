@@ -47,7 +47,7 @@ Ellenville NY
 - Volunteered with groups and organizations to help make measurable differences for the community of my hometown.
 
 ## Technical Skills
-**Programming Skills:** Languages: HTML, CSS, Python | Operating Systems: Windows, Linux, Android
+**Programming Skills:** Languages: HTML, CSS, Python | **Operating Systems:** Windows, Linux, Android
 **Computer Skills:** MS Office, Google Drive, Email, Computer and Network Troubleshooting, Diagnostics & Repair,. Research
 
 ## Certificates 
