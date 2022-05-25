@@ -11,7 +11,7 @@ My passion is technology....
 ### Education
 
 **SUNY University at Albany** | Bachelor's & Master’s Degree     Expected Graduation May 2024
-- **Major:** Informatics - Cyber Security | M.S.I.S. Intelligence Analysis 
+- **Major:** Informatics - Cyber Security & M.S.I.S. Intelligence Analysis
 - **Concentration:** Cyber Security
 - **Cumulative GPA:** 4.0
 - Presidential Honors Society
