@@ -10,8 +10,8 @@ My passion is technology....
 
 ### Education
 
-**SUNY University at Albany** | Bachelor's Degree     Expected Graduation May 2023
-- **Major:** Informatics
+**SUNY University at Albany** | Bachelor's & Master’s Degree     Expected Graduation May 2024
+- **Major:** Informatics - Cyber Security | **M.S.I.S.** Intelligence Analysis 
 - **Concentration:** Cyber Security
 - **Cumulative GPA:** 4.0
 - Presidential Honors Society
@@ -19,12 +19,12 @@ My passion is technology....
 - Order of the Sword & Shield National Honor Society
 - Cyber Defense Organization Server Committee
 
-**SUNY Ulster County Community College** | Associate in Applied Science     August 2018 - May 2020
+**SUNY Ulster County Community College** | Associate in Applied Science     Graduated May 2020
 - **Major** Network Administration
 - **Overall GPA:** 3.45
 - Graduated with Honors
 
-**Ulster County Career-Tech Center & Ellenville High School**     September 2016 - June 2018
+**Ulster County Career-Tech Center & Ellenville High School**     Graduated June 2018
 - Introduction to Networking, Information Technology, & Programming
 
 ## Experience
@@ -49,7 +49,7 @@ Ellenville NY
 
 ## Technical Skills
 **Programming Skills:** Languages: HTML, CSS, Python | **Operating Systems:** Windows, Linux, Android
-**Computer Skills:** MS Office, Google Drive, Email, Computer and Network Troubleshooting, Diagnostics & Repair,. Research
+**Computer Skills:** MS Office, Google Drive, Email,  Installing, Configuring, and Troubleshooting of Networking Equipment: Routers and Switches. Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, ICMP, TCP, UDP, SMTP, FTP, TFTP)
 
 ## Certificates 
 Crash Course on Python | CCNP ROUTE: Implementing IP Routing | CCNP TSHOOT: Maintaining and Troubleshooting IP Networks | CCNP SWITCH: Implementing IP Switching | CCNA R&S: Scaling Networks | CCNA R&S: Connecting Networks | IT Essentials: PC Hardware and Software | NDG Linux Essentials | CCNA R&S: Introduction to Networks | CCNA R&S: Routing and Switching Essentials
