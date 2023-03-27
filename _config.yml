@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Michael Fields I am an Information Technology Student/Professional with a current focus in Networking, Cyber Security with interests in Cloud Technologies.
 twitter_username: mikerfields
 github_username: mikerfields
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
