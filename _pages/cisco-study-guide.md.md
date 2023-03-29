@@ -1,4 +1,5 @@
 ---
+permalink: /cisco-study/
 title: Cisco Study Guide
 ---
-T﻿esting
+## Cisco Study Guide
